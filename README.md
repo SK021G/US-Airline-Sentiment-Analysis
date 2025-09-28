@@ -1,16 +1,16 @@
-# Airline Tweet Sentiment Analysis with RNN ✈️
+# Airline Tweet Sentiment Analysis with RNN 
 
 This project uses a Recurrent Neural Network (RNN) to classify tweets about US airlines into three categories: **positive**, **negative**, or **neutral**. The model is built with TensorFlow/Keras and trained on a public dataset of airline tweets.
 
 
 
-## 📝 Overview
+##  Overview
 
 The goal of this project is to analyze the sentiment of customer feedback on Twitter. The provided Jupyter Notebook, `Airline_Sentiment_Analysis.ipynb`, walks through the entire process from data loading and cleaning to model training and real-time prediction.
 
 ---
 
-## ✨ Features
+##  Features
 
 * **Data Cleaning**: Raw tweet text is cleaned by removing @mentions, URLs, and special characters.
 * **Text Preprocessing**: Cleaned text is tokenized and padded to create uniform numerical sequences suitable for the neural network.
@@ -20,7 +20,7 @@ The goal of this project is to analyze the sentiment of customer feedback on Twi
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Python 3**
 * **TensorFlow & Keras**: For building and training the neural network.
@@ -31,7 +31,7 @@ The goal of this project is to analyze the sentiment of customer feedback on Twi
 
 ---
 
-## 🧠 Model Architecture
+##  Model Architecture
 
 The neural network consists of three main layers:
 
@@ -41,7 +41,7 @@ The neural network consists of three main layers:
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1.  **Clone the repository:**
     ```bash
